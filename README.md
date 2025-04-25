@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!-- - 🔭 I'm now in my second (2rd year) year of college. 
+- 🔭 I'm now in my second (2rd year) year of college. 
 - 🌱 I’m currently learning.
 - 😄 Pronouns: 云清|Anthony-pos
 - 📫 How to reach me: Anthony-pos@outlook.com
