@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+<- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<!-- - 🔭 I'm now in my second (2rd year) year of college. -->
+<!-- - 🔭 I'm now in my second (2rd year) year of college. 
 - 🌱 I’m currently learning.
 - 😄 Pronouns: 云清|Anthony-pos
 - 📫 How to reach me: Anthony-pos@outlook.com
 - ⚡ Fun fact: I found that I do not know anything. 😣
+-->
 
 
 ![private github information](https://github-readme-stats.vercel.app/api?username=Anthony-pos&show_icons=true&theme=Gradient)
