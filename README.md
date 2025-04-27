@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 -->
 
 
-![private github information](https://github-readme-stats.vercel.app/api?username=Anthony-pos&show_icons=true&theme=Gradient)
+![private github information](https://github-readme-stats.vercel.app/api?username=EleutheriaAnemos&show_icons=true&theme=Gradient)
 
-![private language](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-pos&layout=compact&langs_count=8&hide_border=true)
+![private language](https://github-readme-stats.vercel.app/api/top-langs/?username=EleutheriaAnemos&layout=compact&langs_count=8&hide_border=true)
